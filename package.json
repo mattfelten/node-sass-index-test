@@ -1,0 +1,22 @@
+{
+  "name": "sass-index-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node-sass test.scss test.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattfelten/node-sass-index-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattfelten/node-sass-index-test/issues"
+  },
+  "homepage": "https://github.com/mattfelten/node-sass-index-test#readme",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
